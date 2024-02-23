@@ -27,7 +27,7 @@
 .home .your-bus {
     position: absolute;
     top: 17px;
-    left: 4px;
+    left: 10px;
     text-shadow: 5px 4px 4px #30921780;
     font-family: "Poppins-SemiBold", Helvetica;
     font-weight: 600;
@@ -348,7 +348,7 @@
 }
 
 .search .overlap {
-    width: 430px;
+    width: 398px;
     height: 80px;
     top: 0;
     left: 0;
@@ -360,7 +360,7 @@
 .search .your-bus {
     position: absolute;
     top: 17px;
-    left: 299px;
+    left: 290px;
     text-shadow: 5px 4px 4px #30921780;
     font-family: "Poppins-SemiBold", Helvetica;
     font-weight: 600;
@@ -384,7 +384,7 @@
     width: 395px;
     height: 724px;
     top: 112px;
-    left: 17px;
+    left: 0;
     border-radius: 16px;
     background: #ffffff20;
     box-shadow: 0 10px 30px #ffffff90;
@@ -558,7 +558,7 @@
     width: 395px;
     height: 700px;
     top: 150px;
-    left: 17px;
+    left: 0;
     border-radius: 16px;
     background: #ffffff20;
     box-shadow: 0 10px 30px #ffffff90;
@@ -710,7 +710,7 @@
 }
 
 .USIM-residents .overlap-group {
-    width: 430px;
+    width: 398px;
     height: 80px;
     top: 0;
     left: 0;
@@ -722,7 +722,7 @@
 .USIM-residents .your-bus {
     position: absolute;
     top: 17px;
-    left: 299px;
+    left: 290px;
     text-shadow: 5px 4px 4px #30921780;
     font-family: "Poppins-SemiBold", Helvetica;
     font-weight: 600;
